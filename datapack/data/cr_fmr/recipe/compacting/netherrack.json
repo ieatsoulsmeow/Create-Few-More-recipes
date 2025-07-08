@@ -1,0 +1,16 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "item": "create:cinder_flour",
+            "count": 4
+        }
+    ],
+    "results": [
+        {
+            "item": {
+                "id": "minecraft:netherrack"
+            }
+        }
+    ]
+}

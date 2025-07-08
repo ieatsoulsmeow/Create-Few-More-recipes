@@ -1,0 +1,16 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:glow_berries"
+    }
+  ],
+  "results": [
+    {
+      "change": 0.7,
+      "item": {
+        "id": "minecraft:glowstone_dust"
+      }
+    }
+  ]
+}
