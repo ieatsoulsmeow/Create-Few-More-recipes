@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "name": "Create Few More Recipes",
+        "id": "cr_fmr",
+        "version": "1.0.0",
+        "authors": [
+            "IEatSoulsMeow"
+        ],
+        "description": "C:FMR adds quality of life recipes while staying balanced and true to Create.\n\nMade with the Origin Creator\nmathgeniuszach.com/apps/origin-creator"
+    }
+}

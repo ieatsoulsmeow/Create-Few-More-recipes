@@ -1,0 +1,24 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+        {
+            "item": "minecraft:netherrack"
+        }
+    ],
+    "results": [
+        {
+            "item": {
+                "id": "minecraft:redstone"
+            },
+            "count": 3,
+            "chance": 0.1
+        },
+        {
+            "item": {
+                "id": "minecraft:gold_nugget"
+            },
+            "count": 1,
+            "chance": 0.1
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        {
+            "type": "fluid_stack",
+            "amount": 100,
+            "fluid": "minecraft:water"
+        }
+    ],
+    "heatRequirement": "heated",
+    "results": [
+        {
+            "item": { 
+                "id": "minecraft:leather"
+            }
+        }
+    ]
+}
