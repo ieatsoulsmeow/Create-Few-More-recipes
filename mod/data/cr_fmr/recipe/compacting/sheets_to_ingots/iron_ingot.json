@@ -1,0 +1,16 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "item": "create:iron_sheet"
+        }
+    ],
+    "heatRequirement": "heated",
+    "results": [
+        {
+            "item": {
+                "id": "minecraft:iron_ingot"
+            }
+        }
+    ]
+}

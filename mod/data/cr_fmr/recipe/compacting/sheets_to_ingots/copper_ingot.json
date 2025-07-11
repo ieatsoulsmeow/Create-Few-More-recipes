@@ -1,0 +1,16 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "item": "create:copper_sheet"
+        }
+    ],
+    "heatRequirement": "heated",
+    "results": [
+        {
+            "item": {
+                "id": "minecraft:copper_ingot"
+            }
+        }
+    ]
+}

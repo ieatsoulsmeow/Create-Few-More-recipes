@@ -1,0 +1,27 @@
+{
+    "quilt_loader": {
+        "depends": [
+            {
+                "id": "quilt_resource_loader",
+                "unless": "fabric-resource-loader-v0",
+                "versions": "*"
+            }
+        ],
+        "group": "com.modrinth",
+        "id": "cr_fmr",
+        "intermediate_mappings": "net.fabricmc:intermediary",
+        "metadata": {
+            "contact": {
+                "homepage": "https://modrinth.com/datapack/create-few-more-recipes"
+            },
+            "contributors": {
+                "IEatSoulsMeow": "Developer"
+            },
+            "description": "C:FMR adds quality of life recipes while staying balanced and true to Create",
+            "icon": "mod-icon.png",
+            "name": "Create: Few More Recipes"
+        },
+        "version": "1.0.0"
+    },
+    "schema_version": 1
+}

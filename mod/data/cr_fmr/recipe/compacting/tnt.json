@@ -1,0 +1,21 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:string"
+        }
+    ],
+    "results": [
+        {
+            "item": {
+                "id": "minecraft:tnt"
+            }
+        }
+    ]
+}

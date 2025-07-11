@@ -1,0 +1,15 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:leather"
+    }
+  ],
+  "results": [
+    {
+      "item": {
+        "id": "minecraft:rotten_flesh"
+      }
+    }
+  ]
+}

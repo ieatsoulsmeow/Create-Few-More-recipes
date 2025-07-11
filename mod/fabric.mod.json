@@ -1,0 +1,19 @@
+{
+    "authors": [
+        "IEatSoulsMeow"
+    ],
+    "contact": {
+        "homepage": "https://modrinth.com/datapack/create-few-more-recipes"
+    },
+    "depends": {
+        "fabric-resource-loader-v0": "*"
+    },
+    "description": "C:FMR adds quality of life recipes while staying balanced and true to Create",
+    "environment": "*",
+    "icon": "mod-icon.png",
+    "id": "cr_fmr",
+    "license": "MIT",
+    "name": "Create: Few More Recipes",
+    "schemaVersion": 1,
+    "version": "1.0.0"
+}
